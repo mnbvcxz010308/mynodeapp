@@ -1,6 +1,6 @@
 {
   "name": "mynodeapp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "My first app",
   "main": "hello.js",
   "author": "Vipin GS",
