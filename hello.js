@@ -1,1 +1,3 @@
-console.log("Hello world");
+var myvar = "node js";
+
+console.log(myvar);
