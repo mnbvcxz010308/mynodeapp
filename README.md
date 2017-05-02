@@ -1,2 +1,0 @@
-# mynodeapp
-Learning NodeJS
