@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My first app",
   "main": "hello.js",
-  "author": "Vipim GS",
+  "author": "Vipin GS",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.2"
