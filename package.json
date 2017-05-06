@@ -6,6 +6,7 @@
   "author": "Vipin GS",
   "license": "MIT",
   "dependencies": {
+    "es6": "0.0.7",
     "express": "^4.15.2"
   },
   "devDependencies": {
